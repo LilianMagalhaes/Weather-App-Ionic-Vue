@@ -1,0 +1,7 @@
+{
+  "name": "App-Meteo-Ionic-Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
