@@ -4,5 +4,5 @@ Cross-Plattform app
 -Capacitor (Geolocation)
 -API (api.openweathermap.org)
 -TypeScript
--JavaScript
+
 
