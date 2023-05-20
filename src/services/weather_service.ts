@@ -4,7 +4,7 @@ import { OneWeather} from '@/model/weather-model';
 
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/onecall?';
 const cityWeatherUrl = 'https://api.openweathermap.org/data/2.5/weather?';
-const APPID = '15f57edaef2d68ba68757ca6d093e6cf'; //openweathermap.org personal APIkey
+const APPID = ''; //openweathermap.org personal APIkey
 
 const weather = ref<OneWeather>();
 fetchCurrentPositionWeather();
